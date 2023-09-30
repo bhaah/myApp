@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bhaah\\OneDrive\\שולחן העבודה\\WebApplication2\\WebApplication2.csproj": {}
+    "C:\\Users\\bhaah\\Source\\Repos\\bhaah\\myApp\\WebApplication2\\WebApplication2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bhaah\\OneDrive\\שולחן העבודה\\WebApplication2\\WebApplication2.csproj": {
+    "C:\\Users\\bhaah\\Source\\Repos\\bhaah\\myApp\\WebApplication2\\WebApplication2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bhaah\\OneDrive\\שולחן העבודה\\WebApplication2\\WebApplication2.csproj",
+        "projectUniqueName": "C:\\Users\\bhaah\\Source\\Repos\\bhaah\\myApp\\WebApplication2\\WebApplication2.csproj",
         "projectName": "WebApplication2",
-        "projectPath": "C:\\Users\\bhaah\\OneDrive\\שולחן העבודה\\WebApplication2\\WebApplication2.csproj",
+        "projectPath": "C:\\Users\\bhaah\\Source\\Repos\\bhaah\\myApp\\WebApplication2\\WebApplication2.csproj",
         "packagesPath": "C:\\Users\\bhaah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bhaah\\OneDrive\\שולחן העבודה\\WebApplication2\\obj\\",
+        "outputPath": "C:\\Users\\bhaah\\Source\\Repos\\bhaah\\myApp\\WebApplication2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bhaah\\AppData\\Roaming\\NuGet\\NuGet.Config",
